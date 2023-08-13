@@ -6,6 +6,6 @@ h2 {
     color: green;
 }
 
-.h2 .ul {
-    color: gray
+ul {
+    font-family: "lucinda console", monospace;
 }
