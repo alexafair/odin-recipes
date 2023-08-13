@@ -9,3 +9,16 @@ h2 {
 ul {
     font-family: "lucinda console", monospace;
 }
+
+ol {
+    font-size: 30px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.onigiri-ing {
+    color: red;
+}
